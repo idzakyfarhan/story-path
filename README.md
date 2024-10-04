@@ -1,9 +1,14 @@
-# React + Vite
+## Description
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+StoryPath is a location experience platform designed to allow users to create and explore virtual museum exhibits, location-based tours, and treasure hunts with clues. The platform features a Web app built in react that enables user to author these experiences, and a React Native Player for deploying them, making it easy to bring location-driven narratives to life.
 
-Currently, two official plugins are available:
+## Advance Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# story-path
+Advance Features that i chose in this project is leaflet library when user can pick a location in map and automatically transform it to Longatitude and Latitude format so user dont have to search for longatitude and latitude on the location first.
+
+## Reference
+- https://www.youtube.com/watch?v=0-S5a0eXPoc&t=5105s
+- https://www.youtube.com/watch?v=mJ3bGvy0WAY&t=2835s
+- ChatGPT is used to help throughout the project on using react
+
+
